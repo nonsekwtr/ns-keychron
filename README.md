@@ -116,7 +116,7 @@ I followed this [guide on Reddit](https://www.reddit.com/r/Keychron/comments/1as
 - Bluetooth firmware update is sequential, `v1.32`, `v1.32-1`, `v1.32-2`, resetting keyboard between each flash, see example above. Files available below.
 
 ## Known Issues as of 2022-04-22
-- Bluetooth timeouts on Qualcomm Atheros QCA61x4 in Lenovo m715q tiny. This is after repeated firmware updates to the Keyboard. Has to be used with a wired connection.
+- Bluetooth timeouts on Qualcomm Atheros QCA61x4 in Lenovo m715q tiny. This is after repeated firmware updates to the Keyboard. Has to be used with a wired connection. No issues with the Realtek adapter in a Lenovo T14s Gen 2.
 
 
 ## Files (up-to-date as of 2026-04-22)
